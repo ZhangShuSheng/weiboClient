@@ -1,3 +1,5 @@
 delete readme.txt
 
 git diff
+
+git pull
