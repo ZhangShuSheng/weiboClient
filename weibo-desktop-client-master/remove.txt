@@ -3,3 +3,5 @@ delete readme.txt
 git diff
 
 git pull
+
+merge failed??
